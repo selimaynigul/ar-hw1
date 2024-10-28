@@ -1,0 +1,101 @@
+# =============== #
+# Unity generated #
+# =============== #
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+
+# Uncomment this line if you have Vuforia Engine package installed
+/Assets/Editor/Vuforia/
+# Vuforia database files
+/Assets/StreamingAssets/Vuforia/
+
+# Avoid uploading auto-generated and cache files from Vuforia
+/Vuforia/
+.vuforia_cache/
+/VuforiaConfig.json
+
+# User-specific
+/[Uu]ser[Ss]ettings/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+/[Ee]xported[Oo]bj/
+*.apk
+*.aab
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Compiled Dynamic Link Libraries
+*.dll
+*.dll.mdb
+
+# Exclude all build artifacts
+*.class
+*.jar
+*.java
+*.log
+*.obj
+*.pyc
+*.pyo
+*.ser
+
+# Temporary and auto-generated files
+*.swp
+*.bak
+*.orig
+*.tmp
+*.class
+
+# JetBrains Rider IDE
+.idea/
+.idea/workspace.xml
+.idea/*.iml
+.idea/modules.xml
+
+# Unity Analytics
+UnityAnalytics/
+
+# Visual Studio Code Workspace
+.vscode/
+
+# Unity3D generated file on crash reports
+sysinfo.txt
+
+# Builds
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics generated file
+crashlytics-build.properties
+
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata//.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Vuforia Package
+Packages/com.ptc.vuforia.engine-10.27.3.tgz
